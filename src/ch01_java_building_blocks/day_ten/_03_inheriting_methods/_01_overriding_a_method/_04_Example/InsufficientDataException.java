@@ -1,0 +1,4 @@
+package ch01_java_building_blocks.day_ten._03_inheriting_methods._01_overriding_a_method._04_Example;
+
+public class InsufficientDataException extends Exception{
+}
