@@ -1,0 +1,4 @@
+package ch01_java_building_blocks.day_one._03_understanding_package_declarations_and_imports._04_creating_a_new_package.temp.packagea;
+
+public class ClassA {
+}
